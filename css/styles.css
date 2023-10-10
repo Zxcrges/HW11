@@ -3,7 +3,9 @@
     padding: 15px, 10px ,20px;
     margin-top: 30px;
     background-color: #167B00;
-    border-dotted-color: red;
+    border-radius: 2px;
+    border-style: dashed;
+    border-color: red;
     height: 220px;
     width: 350px;
 }
