@@ -1,7 +1,7 @@
 .task {
-    box-sizing: content-box;
-    padding: 15px, 10px ,20px;
-    margin-top: 30px;
+    box-sizing: border-box;
+    padding: 15px 10px 20px;
+    margin-bottom: 30px;
     background-color: #167B00;
     border-radius: 2px;
     border-style: dashed;
